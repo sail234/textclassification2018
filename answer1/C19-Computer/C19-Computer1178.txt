@@ -1,0 +1,1 @@
+发信人 alexander 当家 老鬼 信区 Security 标题 DominoWeb 服务器 被 查出 存在 安全漏洞 发信站 日月 光华 站 ThuOct 转信 最近 ， Lotus 公司 的 DominoWeb 服务器 被 查出 存在 安全漏洞 ， 该 漏洞 有 可能 泄露 诸如 信用卡 号 、 地址 、 电话 等 敏感 信息 。 具体来讲 ， 只要 用户 连接 到 DominoWeb 服务器 ， 在 以 nsf 结尾 的 数据库 中 ， 敲入 open 字样 ， 便 可 进入 查阅 所 需 信息 。 该 漏洞 可能 会 对 目前 正在 兴起 的 电子商务 造成 影响 。 目前 Lotus 公司 尚未 对此 作出评价 。 ※ 来源 · 日月 光华 站 bbsfudaneducn · FROM
